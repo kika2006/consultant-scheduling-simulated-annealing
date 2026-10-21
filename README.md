@@ -1,6 +1,6 @@
 # Scheduling 20 Consultants with Simulated Annealing
 
-**Author:** Francisca (Kika) Freixo  
+**Author:** Francisca Freixo  
 
 A metaheuristic solver for a profit-maximising vehicle-routing and scheduling problem. It decides which of about 1,000 customer orders 20 student consultants should take on, and in what order, within an 8-hour shift.
 
